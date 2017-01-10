@@ -1,3 +1,3 @@
 # Blood-Donation
 
-   This App is made for blood dnoation.
+   This App is made for blood donation.
